@@ -1,4 +1,13 @@
+import { useState } from "react";
+
 export const Header = () => {
+  const [isDarkMode, setIsDarkMode] = useState(false);
+
+  const toggleDarkMode = () => {
+    setIsDarkMode(!isDarkMode);
+    document.body.classList.toggle("dark_mode");
+  };
+
   return (
     <header>
       <nav className="nav-container">
@@ -14,7 +23,12 @@ export const Header = () => {
           </li>
         </ul>
       </nav>
-      <input className="toggle" id="dark_mode_button" type="checkbox" />
+      <input
+        className="toggle"
+        id="dark_mode_button"
+        type="checkbox"
+        onClick={toggleDarkMode}
+      />
     </header>
   );
 };

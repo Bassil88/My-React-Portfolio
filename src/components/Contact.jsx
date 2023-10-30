@@ -52,7 +52,7 @@ export const Contact = () => {
                   type="text"
                   name="name"
                   id="name"
-                  placeholder="Your name ;)"
+                  placeholder="first and last name"
                 />
               </div>
               <div className="form-group">
@@ -61,7 +61,7 @@ export const Contact = () => {
                   type="email"
                   name="email"
                   id="email"
-                  placeholder="Your e-mail ;)"
+                  placeholder="example@example.com"
                 />
               </div>
               <div className="form-group">
@@ -71,7 +71,7 @@ export const Contact = () => {
                   id="message"
                   cols="30"
                   rows="4"
-                  placeholder="Leave a message ;)"
+                  placeholder="Leave a message"
                 ></textarea>
               </div>
               <div className="form-group">
