@@ -1,4 +1,6 @@
-# [My Portfolio](https://bassil-edelbi.netlify.app/)
+
+# [My Portfolio](https://bassil-edelbi.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/3a717ba5-9bab-4426-8e09-666a090049ae/deploy-status)](https://app.netlify.com/sites/bassil-edelbi/deploys)
+
 
 This is my portfolio website showcasing my projects and skills. It was built using React and Vite, providing a seamless and performant development environment. The portfolio includes a collection of projects I have worked on, demonstrating my expertise in React, HTML, CSS, and front-end development. The website is responsive and adaptable to various devices.
 
