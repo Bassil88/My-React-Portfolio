@@ -16,6 +16,9 @@ export const Projects = () => {
 
   return (
     <div id="projects" className="project-main-container">
+      <div className="work">
+         <h2>Some of my Projects!</h2>
+       </div>
       <div className="project-box">
         {projectData.map((project, index) => (
           <div className="p-box-column" key={index} onMouseEnter={() => handleMouseEnter(index)} onMouseLeave={() => handleMouseLeave(index)}>
