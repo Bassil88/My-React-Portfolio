@@ -21,7 +21,7 @@ const projectData = [
   {
     title: "Tindog (BootStrap)",
     image:
-    "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     link: "https://tindog-react-vite.netlify.app/",
   },
   {
@@ -29,6 +29,12 @@ const projectData = [
     image:
       "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvZGRpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
     link: "https://bassil88.github.io/Move-It/",
+  },
+  {
+    title: "Dice Game",
+    image:
+      "https://images.unsplash.com/photo-1584949091598-c31daaaa4aa9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    link: "https://bassil88.github.io/Dice-Game-v1/",
   },
   {
     title: "Donates cake web page",
