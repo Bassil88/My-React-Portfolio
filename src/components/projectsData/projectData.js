@@ -37,6 +37,12 @@ const projectData = [
     link: "https://bassil88.github.io/Dice-Game-v1/",
   },
   {
+    title: "Music Kit",
+    image:
+      "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg",
+    link: "https://bassil88.github.io/music-kit/",
+  },
+  {
     title: "Donates cake web page",
     image:
       "https://images.unsplash.com/photo-1553524913-efba3f0b533e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
