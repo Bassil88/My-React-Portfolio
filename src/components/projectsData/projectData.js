@@ -37,7 +37,7 @@ const projectData = [
     title: "Move-It (BootStrap)",
     image:
       "https://images.unsplash.com/photo-1516259762381-22954d7d3ad2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvZGRpbmd8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
-    link: "https://bassil88.github.io/Move-It/",
+    link: "https://my-mini-site-move-it.netlify.app/",
   },
   {
     title: "Dice Game",
