@@ -2,6 +2,7 @@ import me from "../assets/Me.jpg"
 
 export const AboutMe = () => {
   return (
+    <div className="about-me-container">
     <div id="about">
       <div className="always-container">
         <div className="always-be">
@@ -74,6 +75,7 @@ export const AboutMe = () => {
           <img src={me} alt="an image of me" />
         </div>
       </div>
+    </div>
     </div>
   );
 };
