@@ -63,15 +63,13 @@ export const AboutMe = () => {
             </li>
             <li>Server-side development</li>
             <li>Version Control: Git, GitHub</li>
-            <li>Database: MongoDB, NoSQL</li>
-            <li>DevOps and CI/CD</li>
+            <li>Database: MongoDB</li>
             <li>Front-End Frameworks: Bootstrap, Tailwind</li>
             <li>RESTful APIs</li>
             <li>Operating Systems: Linux, Windows, Mac</li>
           </ul>
         </div>
         <div className="welcome-img">
-          {/* Replace the image source with your image path */}
           <img src={me} alt="an image of me" />
         </div>
       </div>
