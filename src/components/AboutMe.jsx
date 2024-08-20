@@ -59,7 +59,7 @@ export const AboutMe = () => {
           <p>Skills:</p>
           <ul>
             <li>
-              Web Development: HTML, CSS, JavaScript, React, Express.js, Node.js
+              Web Development: HTML, CSS, JavaScript, React, Java, Spring Boot, Express.js, Node.js
             </li>
             <li>Server-side development</li>
             <li>Version Control: Git, GitHub</li>
