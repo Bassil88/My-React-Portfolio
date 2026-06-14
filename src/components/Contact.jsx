@@ -25,7 +25,7 @@ export const Contact = () => {
               <li>
                 <a
                   className="linkedin-icon"
-                  href="https://www.linkedin.com/in/bassil-edelbi-7b31a7277/"
+                  href="https://www.linkedin.com/in/b-dev"
                   target="_blank"
                   rel="noreferrer"
                 >
