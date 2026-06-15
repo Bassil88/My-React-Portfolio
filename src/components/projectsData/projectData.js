@@ -25,7 +25,7 @@ const projectData = [
   {
   title: "Tindog (Bootstrap)",
   image: tinDog,
-    link: "https://bassil88.github.io/TinDog-BootStrap/",
+    link: "https://bassil88.github.io/TinDog-Project/",
   },
   // {
   //   title: "My very First web-page",
