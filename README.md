@@ -1,29 +1,129 @@
+# 🌐 Personal Portfolio
 
-# [My Portfolio](https://bassil-edelbi.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/3a717ba5-9bab-4426-8e09-666a090049ae/deploy-status)](https://app.netlify.com/sites/bassil-edelbi/deploys)
+A modern, responsive developer portfolio built with **React**, **Vite**, and **SCSS** to showcase my professional experience, technical skills, and frontend projects.
 
+The website serves as my personal portfolio and highlights my journey as a Frontend Software Developer, featuring selected projects, technologies, and contact information in a clean, responsive user interface.
 
-This is my portfolio website showcasing my projects and skills. It was built using React and Vite, providing a seamless and performant development environment. The portfolio includes a collection of projects I have worked on, demonstrating my expertise in React, HTML, CSS, and front-end development. The website is responsive and adaptable to various devices.
+---
 
-## Table of Contents
-- About Me
-- Projects
-- Contact
+## 🚀 Live Demo
 
-## Features
+👉 https://bassil-edelbi.netlify.app
 
-- Modern and responsive design with React components
-- Smooth navigation menu for easy section transitions
-- Engaging welcome section with animated text effects
-- Projects section displaying a selection of my projects using React components
-- Contact section with a form and links to social media profiles
-- Convenient 'Back to Top' button for smooth navigation
+---
 
-## Technologies Used
+## ✨ Features
 
-- React
-- Vite
-- JavaScript/JSX for interactivity and functionality
-- SASS/SCSS for styles and theming
-- Font Awesome for icons
+* Responsive design
+* Modern React architecture
+* Component-based structure
+* Smooth navigation
+* Project showcase
+* Technology overview
+* Contact section
+* Mobile-friendly layout
+* SCSS styling
+* Interactive UI
 
-Enjoy exploring [my Portfolio](https://bassil-edelbi.netlify.app/)
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React 18
+* Vite
+* JavaScript (ES6+)
+* SCSS
+* Bootstrap
+* React Router
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+ ├── components/
+ │    ├── Header
+ │    ├── AboutMe
+ │    ├── Projects
+ │    ├── Contact
+ │    └── Footer
+ │
+ ├── assets/
+ ├── styles/
+ ├── App.jsx
+ └── main.jsx
+```
+
+---
+
+## 📸 Screenshots
+
+*Add desktop and mobile screenshots of the homepage.*
+
+---
+
+## ⚙️ Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/Bassil88/my-react-portfolio.git
+```
+
+Navigate into the project
+
+```bash
+cd my-react-portfolio
+```
+
+Install dependencies
+
+```bash
+npm install
+```
+
+Run locally
+
+```bash
+npm run dev
+```
+
+---
+
+## 🎯 Purpose
+
+This project was built to present my professional profile as a Frontend Software Developer while demonstrating modern React development practices, reusable components, responsive layouts, and clean UI design.
+
+---
+
+## 📚 What I Learned
+
+During this project I improved my understanding of:
+
+* Component composition
+* SCSS architecture
+* Responsive design
+* React Router
+* UI/UX organization
+* Project structure
+* Personal branding for software developers
+
+---
+
+## 👨‍💻 Author
+
+**Bassil Edelbi**
+
+Frontend Software Developer
+
+🌐 Portfolio
+https://bassil-edelbi.netlify.app
+
+💼 LinkedIn
+https://www.linkedin.com/in/b-dev/
+
+🐙 GitHub
+https://github.com/Bassil88
